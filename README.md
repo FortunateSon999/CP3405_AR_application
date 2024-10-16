@@ -8,7 +8,7 @@ Our group members are:
 3) Chealsea Co Tan (14497206)
 4) Theodore Lee (14341943)
 
-## Instructions for setting up Unity project
+## Instructions for setting up Unity project 
 1) Pull code into folder of your choice
 2) Start Unity Hub
 3) Select the "Projects" tab on the left
