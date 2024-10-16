@@ -4,6 +4,7 @@ using UnityEngine;
 
 
 // Rotates the cube in the template scene
+// testing
 public class SceneTemplate_RotateCube : MonoBehaviour
 {
     [Tooltip("Changes the rotation speed of the cube")]
